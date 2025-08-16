@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Data / outputs
+data/
+outputs/
+*.log
